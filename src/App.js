@@ -11,7 +11,6 @@ import {
 import SearchForm from './components/SearchForm';
 import Nav from './components/Nav';
 import PhotoContainer from './components/PhotoContainer';
-import NotFound from './components/NotFound';
 import ErrorFourFour from './components/ErrorFourFour';
 
 function App() {
